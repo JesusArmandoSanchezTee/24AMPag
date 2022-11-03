@@ -10,8 +10,8 @@ using _24AMPag.Context;
 namespace _24AMPag.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20221103130603_Proyecto24AM")]
-    partial class Proyecto24AM
+    [Migration("20221103211244_Migracion")]
+    partial class Migracion
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

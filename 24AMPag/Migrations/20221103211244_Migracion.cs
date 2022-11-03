@@ -2,7 +2,7 @@
 
 namespace _24AMPag.Migrations
 {
-    public partial class Proyecto24AM : Migration
+    public partial class Migracion : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
